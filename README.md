@@ -4,4 +4,4 @@ These are the scripts which were made for my github game off 2025 game jam entry
 
 Play it here : https://badpiggy.itch.io/traitors-claw
 
-!([./Traitors claw cover gif (6.6 mb).gif](https://github.com/VCP-dev/github-game-off-2025/blob/main/Traitors%20claw%20cover%20gif%20(6.6%20mb).gif))
+([./Traitors claw cover gif (6.6 mb).gif](https://github.com/VCP-dev/github-game-off-2025/blob/main/Traitors%20claw%20cover%20gif%20(6.6%20mb).gif))
